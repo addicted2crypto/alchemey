@@ -1,1 +1,1 @@
-My code journey across all platforms i can find.
+My code journey across utilizing blockchain started with alchemy.
